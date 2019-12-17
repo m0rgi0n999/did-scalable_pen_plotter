@@ -29,7 +29,7 @@ Frame_Motors.gcode|
 Logo_Cover.gcode|
 Motors_Cover.gcode|
 Paper_Roller_Higher__Tolerances.gcode|4 on 1 bed
-Paper_Roller_Roller.gcode|4 on ` bed`
+Paper_Roller_Roller.gcode|4 on 1 bed
 Paper_Stand-modded.gcode|4 on 1 bed
 Paper_Support_Left.gcode|helper discs added
 Paper_Support_Right.gcode|helper discs added
