@@ -18,5 +18,17 @@ GT2 Belt (2M)|1.15|1.15|Aliexpress
 1X 12V-3A PSU|3.45|3.45|Aliexpress
 Total|	|54.58|(Ex. Nuts & Bolts)
 
-Printed Parts
-To Be Determined
+Parts to Print:
+Carriage_Arm.gcode
+Carriage_Base.gcode
+Coupler.gcode
+Elechtronics_Cover.gcode
+Frame_Elechtronics.gcode
+Frame_Motors.gcode
+Logo_Cover.gcode
+Motors_Cover.gcode
+Paper_Roller_Higher__Tolerances.gcode
+Paper_Roller_Roller.gcode
+Paper_Stand-modded.gcode
+Paper_Support_Left.gcode
+Paper_Support_Right.gcode
